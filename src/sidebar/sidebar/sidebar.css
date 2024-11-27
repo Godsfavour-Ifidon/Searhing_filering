@@ -1,0 +1,7 @@
+.sidebar_container {
+  padding-left: 2.5rem;
+  /* padding-top: 1rem; */
+  width: 12%;
+  position: fixed;
+  border-right: 2px solid #8f8a8a33;
+}

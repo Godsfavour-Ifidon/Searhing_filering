@@ -1,0 +1,33 @@
+img {
+  width: 150px;
+}
+.card_container {
+  padding-left: 17em;
+  position: absolute;
+  margin-top: 8em;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.card {
+  border: 1px solid #333;
+  padding: 10px;
+  margin-inline: 5px;
+  width: 200px;
+  height: 250px;
+}
+.card_reviews {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.stars {
+  /* margin-right: 5px; */
+  font-size: 2rem;
+}
+
+.card_price {
+  justify-content: space-evenly;
+  display: flex;
+}

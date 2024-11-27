@@ -1,0 +1,28 @@
+.navigaion_section {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 8px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #3333;
+}
+
+.inputBox {
+  padding: 10px;
+  border-radius: 20px;
+  width: 20rem;
+  font-size: 1rem;
+  border: none;
+  outline: none;
+  background-color: rgb(240, 236, 236);
+}
+
+.menu a {
+  margin-inline: 2rem;
+  font-size: 1.8rem;
+  text-decoration: none;
+}
+
+a:hover {
+  filter: sepia(150%);
+  text-decoration: underline;
+}
